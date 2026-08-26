@@ -28,7 +28,4 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
-
-###Author
-*Abhinav Singh*
 ---
